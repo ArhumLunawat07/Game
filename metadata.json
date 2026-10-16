@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT: LAST SIGNAL",
+  "description": "When the stars go silent, become humanity's last hope. A top-down 2D sci-fi exploration and survival puzzle game aboard spacecraft ECHO-7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
